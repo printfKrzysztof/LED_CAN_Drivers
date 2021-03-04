@@ -1,0 +1,8 @@
+rgb.c:10:8:Switch1	8	static
+rgb.c:15:8:Switch2	8	static
+rgb.c:20:8:Switch3	8	static
+rgb.c:27:6:SetColor	16	static
+rgb.c:49:6:SetColorAll	16	static
+rgb.c:71:6:Fade	48	static
+rgb.c:113:6:Solar	48	static
+rgb.c:154:6:FadeAll	48	static
